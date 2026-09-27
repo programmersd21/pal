@@ -1,5 +1,7 @@
 # pal
 
+![demo](assets/demo.png)
+
 print your terminal's 16-color ansi palette as a minimal dot swatch.
 
 ## preview
